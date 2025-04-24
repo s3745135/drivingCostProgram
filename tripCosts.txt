@@ -10,3 +10,4 @@ Function Main() returns nothing
    Put DrivingCost(50.0, milesPerGallon, dollarsPerGallon) to output with 2 decimal places
    Put " " to output
    Put DrivingCost(400.0, milesPerGallon, dollarsPerGallon) to display with 2 decimal places
+
